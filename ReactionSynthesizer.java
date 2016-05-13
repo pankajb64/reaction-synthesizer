@@ -26,10 +26,16 @@
 public class ReactionSynthesizer
 {
 
+	/**
+	 * Counters for signal, truth and fuel notations respectively
+	 */ 
 	private int g;
 	private int t;
 	private int f;
 	
+	/**
+	 * The constructor. Initializes the counters to zero
+	 */ 
 	public ReactionSynthesizer()
 	{
 		g = 0;
