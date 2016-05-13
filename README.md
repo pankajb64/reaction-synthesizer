@@ -23,3 +23,7 @@ Department of Electrical and Computer Engineering, University of Minnesota, Minn
 
 *Citation:* Senum P, Riedel M (2011) Rate-Independent Constructs for Chemical Computation. 
 PLoS ONE 6(6): e21414. doi:10.1371/journal.pone.0021414
+
+To compile the file, run `javac ReactionSynthesizer.java`
+
+To run the file, run `java ReactionSynthesizer`
